@@ -64,7 +64,6 @@ This project uses an LSTM (Long Short-Term Memory) deep learning model to predic
 ```
 ├── AAPL_streamlit_deploy.ipynb    # Main notebook with Streamlit integration
 ├── README.md                      # This file
-├── requirements.txt               # Python dependencies
 ```
 
 ---
